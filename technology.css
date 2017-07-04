@@ -1,0 +1,238 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:44
+  	*/
+
+@font-face {
+  font-family: "flaticon-technology";
+  src: url("fonts/technology.ttf") format("truetype"),
+       url("fonts/technology.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon-technology";
+    src: url("fonts/technology.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="fi-tech-"]:before, [class*=" fi-tech-"]:before,
+[class^="fi-tech-"]:after, [class*=" fi-tech-"]:after {
+  font-family: 'flaticon-technology';
+  font-size: 20px;
+  font-style: normal;
+  margin-left: 20px;
+}
+
+.fi-tech-browser:before { content: "\f100"; }
+.fi-tech-browser-1:before { content: "\f101"; }
+.fi-tech-browser-10:before { content: "\f102"; }
+.fi-tech-browser-11:before { content: "\f103"; }
+.fi-tech-browser-12:before { content: "\f104"; }
+.fi-tech-browser-13:before { content: "\f105"; }
+.fi-tech-browser-14:before { content: "\f106"; }
+.fi-tech-browser-15:before { content: "\f107"; }
+.fi-tech-browser-16:before { content: "\f108"; }
+.fi-tech-browser-17:before { content: "\f109"; }
+.fi-tech-browser-18:before { content: "\f10a"; }
+.fi-tech-browser-19:before { content: "\f10b"; }
+.fi-tech-browser-2:before { content: "\f10c"; }
+.fi-tech-browser-20:before { content: "\f10d"; }
+.fi-tech-browser-21:before { content: "\f10e"; }
+.fi-tech-browser-22:before { content: "\f10f"; }
+.fi-tech-browser-23:before { content: "\f110"; }
+.fi-tech-browser-24:before { content: "\f111"; }
+.fi-tech-browser-25:before { content: "\f112"; }
+.fi-tech-browser-26:before { content: "\f113"; }
+.fi-tech-browser-27:before { content: "\f114"; }
+.fi-tech-browser-28:before { content: "\f115"; }
+.fi-tech-browser-29:before { content: "\f116"; }
+.fi-tech-browser-3:before { content: "\f117"; }
+.fi-tech-browser-30:before { content: "\f118"; }
+.fi-tech-browser-31:before { content: "\f119"; }
+.fi-tech-browser-32:before { content: "\f11a"; }
+.fi-tech-browser-33:before { content: "\f11b"; }
+.fi-tech-browser-34:before { content: "\f11c"; }
+.fi-tech-browser-35:before { content: "\f11d"; }
+.fi-tech-browser-36:before { content: "\f11e"; }
+.fi-tech-browser-37:before { content: "\f11f"; }
+.fi-tech-browser-38:before { content: "\f120"; }
+.fi-tech-browser-39:before { content: "\f121"; }
+.fi-tech-browser-4:before { content: "\f122"; }
+.fi-tech-browser-40:before { content: "\f123"; }
+.fi-tech-browser-41:before { content: "\f124"; }
+.fi-tech-browser-42:before { content: "\f125"; }
+.fi-tech-browser-43:before { content: "\f126"; }
+.fi-tech-browser-44:before { content: "\f127"; }
+.fi-tech-browser-45:before { content: "\f128"; }
+.fi-tech-browser-46:before { content: "\f129"; }
+.fi-tech-browser-47:before { content: "\f12a"; }
+.fi-tech-browser-48:before { content: "\f12b"; }
+.fi-tech-browser-49:before { content: "\f12c"; }
+.fi-tech-browser-5:before { content: "\f12d"; }
+.fi-tech-browser-50:before { content: "\f12e"; }
+.fi-tech-browser-51:before { content: "\f12f"; }
+.fi-tech-browser-6:before { content: "\f130"; }
+.fi-tech-browser-7:before { content: "\f131"; }
+.fi-tech-browser-8:before { content: "\f132"; }
+.fi-tech-browser-9:before { content: "\f133"; }
+.fi-tech-bug:before { content: "\f134"; }
+.fi-tech-chip:before { content: "\f135"; }
+.fi-tech-computer:before { content: "\f136"; }
+.fi-tech-computer-1:before { content: "\f137"; }
+.fi-tech-computer-2:before { content: "\f138"; }
+.fi-tech-computer-3:before { content: "\f139"; }
+.fi-tech-computer-4:before { content: "\f13a"; }
+.fi-tech-database:before { content: "\f13b"; }
+.fi-tech-database-1:before { content: "\f13c"; }
+.fi-tech-database-10:before { content: "\f13d"; }
+.fi-tech-database-11:before { content: "\f13e"; }
+.fi-tech-database-12:before { content: "\f13f"; }
+.fi-tech-database-13:before { content: "\f140"; }
+.fi-tech-database-14:before { content: "\f141"; }
+.fi-tech-database-15:before { content: "\f142"; }
+.fi-tech-database-16:before { content: "\f143"; }
+.fi-tech-database-17:before { content: "\f144"; }
+.fi-tech-database-18:before { content: "\f145"; }
+.fi-tech-database-19:before { content: "\f146"; }
+.fi-tech-database-2:before { content: "\f147"; }
+.fi-tech-database-20:before { content: "\f148"; }
+.fi-tech-database-21:before { content: "\f149"; }
+.fi-tech-database-22:before { content: "\f14a"; }
+.fi-tech-database-23:before { content: "\f14b"; }
+.fi-tech-database-24:before { content: "\f14c"; }
+.fi-tech-database-3:before { content: "\f14d"; }
+.fi-tech-database-4:before { content: "\f14e"; }
+.fi-tech-database-5:before { content: "\f14f"; }
+.fi-tech-database-6:before { content: "\f150"; }
+.fi-tech-database-7:before { content: "\f151"; }
+.fi-tech-database-8:before { content: "\f152"; }
+.fi-tech-database-9:before { content: "\f153"; }
+.fi-tech-ereader:before { content: "\f154"; }
+.fi-tech-exchanging:before { content: "\f155"; }
+.fi-tech-exchanging-1:before { content: "\f156"; }
+.fi-tech-exchanging-2:before { content: "\f157"; }
+.fi-tech-exchanging-3:before { content: "\f158"; }
+.fi-tech-exchanging-4:before { content: "\f159"; }
+.fi-tech-exchanging-5:before { content: "\f15a"; }
+.fi-tech-exchanging-6:before { content: "\f15b"; }
+.fi-tech-exchanging-7:before { content: "\f15c"; }
+.fi-tech-firewall:before { content: "\f15d"; }
+.fi-tech-flash-drive:before { content: "\f15e"; }
+.fi-tech-flash-drive-1:before { content: "\f15f"; }
+.fi-tech-flash-drive-2:before { content: "\f160"; }
+.fi-tech-game-console:before { content: "\f161"; }
+.fi-tech-game-console-1:before { content: "\f162"; }
+.fi-tech-game-console-2:before { content: "\f163"; }
+.fi-tech-gamepad:before { content: "\f164"; }
+.fi-tech-gamepad-1:before { content: "\f165"; }
+.fi-tech-gamepad-2:before { content: "\f166"; }
+.fi-tech-gamepad-3:before { content: "\f167"; }
+.fi-tech-gamepad-4:before { content: "\f168"; }
+.fi-tech-internet:before { content: "\f169"; }
+.fi-tech-internet-1:before { content: "\f16a"; }
+.fi-tech-keyboard:before { content: "\f16b"; }
+.fi-tech-keyboard-1:before { content: "\f16c"; }
+.fi-tech-keyboard-2:before { content: "\f16d"; }
+.fi-tech-laptop:before { content: "\f16e"; }
+.fi-tech-laptop-1:before { content: "\f16f"; }
+.fi-tech-laptop-10:before { content: "\f170"; }
+.fi-tech-laptop-11:before { content: "\f171"; }
+.fi-tech-laptop-12:before { content: "\f172"; }
+.fi-tech-laptop-13:before { content: "\f173"; }
+.fi-tech-laptop-14:before { content: "\f174"; }
+.fi-tech-laptop-15:before { content: "\f175"; }
+.fi-tech-laptop-16:before { content: "\f176"; }
+.fi-tech-laptop-17:before { content: "\f177"; }
+.fi-tech-laptop-18:before { content: "\f178"; }
+.fi-tech-laptop-19:before { content: "\f179"; }
+.fi-tech-laptop-2:before { content: "\f17a"; }
+.fi-tech-laptop-20:before { content: "\f17b"; }
+.fi-tech-laptop-21:before { content: "\f17c"; }
+.fi-tech-laptop-22:before { content: "\f17d"; }
+.fi-tech-laptop-23:before { content: "\f17e"; }
+.fi-tech-laptop-24:before { content: "\f17f"; }
+.fi-tech-laptop-25:before { content: "\f180"; }
+.fi-tech-laptop-26:before { content: "\f181"; }
+.fi-tech-laptop-27:before { content: "\f182"; }
+.fi-tech-laptop-28:before { content: "\f183"; }
+.fi-tech-laptop-29:before { content: "\f184"; }
+.fi-tech-laptop-3:before { content: "\f185"; }
+.fi-tech-laptop-30:before { content: "\f186"; }
+.fi-tech-laptop-31:before { content: "\f187"; }
+.fi-tech-laptop-32:before { content: "\f188"; }
+.fi-tech-laptop-33:before { content: "\f189"; }
+.fi-tech-laptop-34:before { content: "\f18a"; }
+.fi-tech-laptop-35:before { content: "\f18b"; }
+.fi-tech-laptop-36:before { content: "\f18c"; }
+.fi-tech-laptop-37:before { content: "\f18d"; }
+.fi-tech-laptop-38:before { content: "\f18e"; }
+.fi-tech-laptop-39:before { content: "\f18f"; }
+.fi-tech-laptop-4:before { content: "\f190"; }
+.fi-tech-laptop-40:before { content: "\f191"; }
+.fi-tech-laptop-41:before { content: "\f192"; }
+.fi-tech-laptop-42:before { content: "\f193"; }
+.fi-tech-laptop-43:before { content: "\f194"; }
+.fi-tech-laptop-44:before { content: "\f195"; }
+.fi-tech-laptop-45:before { content: "\f196"; }
+.fi-tech-laptop-46:before { content: "\f197"; }
+.fi-tech-laptop-47:before { content: "\f198"; }
+.fi-tech-laptop-48:before { content: "\f199"; }
+.fi-tech-laptop-49:before { content: "\f19a"; }
+.fi-tech-laptop-5:before { content: "\f19b"; }
+.fi-tech-laptop-6:before { content: "\f19c"; }
+.fi-tech-laptop-7:before { content: "\f19d"; }
+.fi-tech-laptop-8:before { content: "\f19e"; }
+.fi-tech-laptop-9:before { content: "\f19f"; }
+.fi-tech-mobile-phone:before { content: "\f1a0"; }
+.fi-tech-mobile-phone-1:before { content: "\f1a1"; }
+.fi-tech-mouse:before { content: "\f1a2"; }
+.fi-tech-mouse-1:before { content: "\f1a3"; }
+.fi-tech-mouse-2:before { content: "\f1a4"; }
+.fi-tech-mouse-3:before { content: "\f1a5"; }
+.fi-tech-music-player:before { content: "\f1a6"; }
+.fi-tech-music-player-1:before { content: "\f1a7"; }
+.fi-tech-networking:before { content: "\f1a8"; }
+.fi-tech-networking-1:before { content: "\f1a9"; }
+.fi-tech-plug:before { content: "\f1aa"; }
+.fi-tech-plug-1:before { content: "\f1ab"; }
+.fi-tech-plug-2:before { content: "\f1ac"; }
+.fi-tech-printer:before { content: "\f1ad"; }
+.fi-tech-printer-1:before { content: "\f1ae"; }
+.fi-tech-printer-2:before { content: "\f1af"; }
+.fi-tech-printer-3:before { content: "\f1b0"; }
+.fi-tech-printer-4:before { content: "\f1b1"; }
+.fi-tech-printer-5:before { content: "\f1b2"; }
+.fi-tech-printer-6:before { content: "\f1b3"; }
+.fi-tech-server:before { content: "\f1b4"; }
+.fi-tech-server-1:before { content: "\f1b5"; }
+.fi-tech-server-2:before { content: "\f1b6"; }
+.fi-tech-server-3:before { content: "\f1b7"; }
+.fi-tech-server-4:before { content: "\f1b8"; }
+.fi-tech-server-5:before { content: "\f1b9"; }
+.fi-tech-server-6:before { content: "\f1ba"; }
+.fi-tech-settings:before { content: "\f1bb"; }
+.fi-tech-settings-1:before { content: "\f1bc"; }
+.fi-tech-shield:before { content: "\f1bd"; }
+.fi-tech-shield-1:before { content: "\f1be"; }
+.fi-tech-shield-2:before { content: "\f1bf"; }
+.fi-tech-shield-3:before { content: "\f1c0"; }
+.fi-tech-shield-4:before { content: "\f1c1"; }
+.fi-tech-shield-5:before { content: "\f1c2"; }
+.fi-tech-shield-6:before { content: "\f1c3"; }
+.fi-tech-shield-7:before { content: "\f1c4"; }
+.fi-tech-tablet:before { content: "\f1c5"; }
+.fi-tech-tablet-1:before { content: "\f1c6"; }
+.fi-tech-tablet-2:before { content: "\f1c7"; }
+.fi-tech-tablet-3:before { content: "\f1c8"; }
+.fi-tech-tap:before { content: "\f1c9"; }
+.fi-tech-tap-1:before { content: "\f1ca"; }
+.fi-tech-tap-2:before { content: "\f1cb"; }
+.fi-tech-tap-3:before { content: "\f1cc"; }
+.fi-tech-wifi:before { content: "\f1cd"; }
+.fi-tech-wifi-1:before { content: "\f1ce"; }
+.fi-tech-wifi-2:before { content: "\f1cf"; }
+.fi-tech-wifi-3:before { content: "\f1d0"; }
+.fi-tech-wifi-4:before { content: "\f1d1"; }

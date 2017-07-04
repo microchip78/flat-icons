@@ -1,0 +1,113 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 22/06/2016 15:35
+  	*/
+
+@font-face {
+  font-family: "flaticon-ecommerce";
+  src: url("fonts/ecommerce.ttf") format("truetype"),
+       url("fonts/ecommerce.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon-ecommerce";
+    src: url("fonts/ecommerce.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="fi-ecommerce-"]:before, [class*=" fi-ecommerce-"]:before,
+[class^="fi-ecommerce-"]:after, [class*=" fi-ecommerce-"]:after {
+  font-family: 'flaticon-ecommerce';
+  font-size: 20px;
+  font-style: normal;
+  margin-left: 20px;
+}
+
+.fi-ecommerce-badge:before { content: "\f100"; }
+.fi-ecommerce-bill:before { content: "\f101"; }
+.fi-ecommerce-bills:before { content: "\f102"; }
+.fi-ecommerce-box:before { content: "\f103"; }
+.fi-ecommerce-box-1:before { content: "\f104"; }
+.fi-ecommerce-box-2:before { content: "\f105"; }
+.fi-ecommerce-box-3:before { content: "\f106"; }
+.fi-ecommerce-box-4:before { content: "\f107"; }
+.fi-ecommerce-box-5:before { content: "\f108"; }
+.fi-ecommerce-cash:before { content: "\f109"; }
+.fi-ecommerce-coin:before { content: "\f10a"; }
+.fi-ecommerce-coins:before { content: "\f10b"; }
+.fi-ecommerce-credit-card:before { content: "\f10c"; }
+.fi-ecommerce-delivery:before { content: "\f10d"; }
+.fi-ecommerce-dislike:before { content: "\f10e"; }
+.fi-ecommerce-dollar-symbol:before { content: "\f10f"; }
+.fi-ecommerce-dollar-symbol-1:before { content: "\f110"; }
+.fi-ecommerce-dollar-symbol-2:before { content: "\f111"; }
+.fi-ecommerce-dollar-symbol-3:before { content: "\f112"; }
+.fi-ecommerce-dollar-symbol-4:before { content: "\f113"; }
+.fi-ecommerce-dollar-symbol-5:before { content: "\f114"; }
+.fi-ecommerce-headphones:before { content: "\f115"; }
+.fi-ecommerce-id-card:before { content: "\f116"; }
+.fi-ecommerce-invoice:before { content: "\f117"; }
+.fi-ecommerce-like:before { content: "\f118"; }
+.fi-ecommerce-like-1:before { content: "\f119"; }
+.fi-ecommerce-like-2:before { content: "\f11a"; }
+.fi-ecommerce-mathematics:before { content: "\f11b"; }
+.fi-ecommerce-money:before { content: "\f11c"; }
+.fi-ecommerce-money-bag:before { content: "\f11d"; }
+.fi-ecommerce-monitor:before { content: "\f11e"; }
+.fi-ecommerce-monitor-1:before { content: "\f11f"; }
+.fi-ecommerce-newspaper:before { content: "\f120"; }
+.fi-ecommerce-package:before { content: "\f121"; }
+.fi-ecommerce-package-1:before { content: "\f122"; }
+.fi-ecommerce-package-2:before { content: "\f123"; }
+.fi-ecommerce-package-3:before { content: "\f124"; }
+.fi-ecommerce-package-4:before { content: "\f125"; }
+.fi-ecommerce-package-5:before { content: "\f126"; }
+.fi-ecommerce-package-6:before { content: "\f127"; }
+.fi-ecommerce-package-7:before { content: "\f128"; }
+.fi-ecommerce-padlock:before { content: "\f129"; }
+.fi-ecommerce-payment-method:before { content: "\f12a"; }
+.fi-ecommerce-pen:before { content: "\f12b"; }
+.fi-ecommerce-percentage:before { content: "\f12c"; }
+.fi-ecommerce-pie-chart:before { content: "\f12d"; }
+.fi-ecommerce-piggy-bank:before { content: "\f12e"; }
+.fi-ecommerce-piggy-bank-1:before { content: "\f12f"; }
+.fi-ecommerce-piggy-bank-2:before { content: "\f130"; }
+.fi-ecommerce-price-tag:before { content: "\f131"; }
+.fi-ecommerce-profits:before { content: "\f132"; }
+.fi-ecommerce-settings:before { content: "\f133"; }
+.fi-ecommerce-shield:before { content: "\f134"; }
+.fi-ecommerce-shop:before { content: "\f135"; }
+.fi-ecommerce-shopping-bag:before { content: "\f136"; }
+.fi-ecommerce-shopping-bag-1:before { content: "\f137"; }
+.fi-ecommerce-shopping-bag-10:before { content: "\f138"; }
+.fi-ecommerce-shopping-bag-2:before { content: "\f139"; }
+.fi-ecommerce-shopping-bag-3:before { content: "\f13a"; }
+.fi-ecommerce-shopping-bag-4:before { content: "\f13b"; }
+.fi-ecommerce-shopping-bag-5:before { content: "\f13c"; }
+.fi-ecommerce-shopping-bag-6:before { content: "\f13d"; }
+.fi-ecommerce-shopping-bag-7:before { content: "\f13e"; }
+.fi-ecommerce-shopping-bag-8:before { content: "\f13f"; }
+.fi-ecommerce-shopping-bag-9:before { content: "\f140"; }
+.fi-ecommerce-shopping-basket:before { content: "\f141"; }
+.fi-ecommerce-shopping-cart:before { content: "\f142"; }
+.fi-ecommerce-shopping-cart-1:before { content: "\f143"; }
+.fi-ecommerce-shopping-cart-2:before { content: "\f144"; }
+.fi-ecommerce-shopping-cart-3:before { content: "\f145"; }
+.fi-ecommerce-shopping-cart-4:before { content: "\f146"; }
+.fi-ecommerce-shopping-cart-5:before { content: "\f147"; }
+.fi-ecommerce-shopping-cart-6:before { content: "\f148"; }
+.fi-ecommerce-shopping-cart-7:before { content: "\f149"; }
+.fi-ecommerce-shopping-cart-8:before { content: "\f14a"; }
+.fi-ecommerce-shopping-cart-9:before { content: "\f14b"; }
+.fi-ecommerce-speech-bubble:before { content: "\f14c"; }
+.fi-ecommerce-speech-bubble-1:before { content: "\f14d"; }
+.fi-ecommerce-tag:before { content: "\f14e"; }
+.fi-ecommerce-telephone:before { content: "\f14f"; }
+.fi-ecommerce-telephone-1:before { content: "\f150"; }
+.fi-ecommerce-trolley:before { content: "\f151"; }
+.fi-ecommerce-truck:before { content: "\f152"; }
+.fi-ecommerce-truck-1:before { content: "\f153"; }
+.fi-ecommerce-wallet:before { content: "\f154"; }

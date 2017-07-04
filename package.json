@@ -1,0 +1,26 @@
+{
+  "name": "flat-icons",
+  "version": "1.0.0",
+  "description": "Font Kit for Angular2/Angular-cli project created using most elegent free flaticons packs - creative ecommerce interface techology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/microchip78/flat-icons.git"
+  },
+  "keywords": [
+    "flaticon",
+    "Kit",
+    "WebFont",
+    "Fonts",
+    "creative ecommerce interface technology"
+  ],
+  "author": "microchip78",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/microchip78/flat-icons/issues"
+  },
+  "homepage": "https://github.com/microchip78/flat-icons#readme"
+}
